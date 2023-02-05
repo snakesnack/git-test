@@ -25,3 +25,8 @@
 ### Reset
 - Easy
 - Dangerous
+
+### Create branch
+- Pros) Easy
+- Cons) Dirty
+- Not reset
