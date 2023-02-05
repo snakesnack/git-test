@@ -18,3 +18,6 @@
 ## Merge test
 - Fast forward
 - Merge test with version3 branch
+
+## Conflict test
+- Don't worry
