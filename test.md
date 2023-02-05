@@ -27,5 +27,6 @@
 - Dangerous
 
 ### Create branch
-- Pro) easy
-- Con) Dirty
+- Pros) Easy
+- Cons) Dirty
+- Not reset
