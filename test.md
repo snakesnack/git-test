@@ -21,3 +21,7 @@
 
 ## One room
 - Small!!
+
+### Reset
+- Easy
+- Dangerous
