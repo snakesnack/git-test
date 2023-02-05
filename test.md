@@ -11,3 +11,5 @@
 
 - Branch
 - Checkout
+
+- Merge test
